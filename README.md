@@ -12,7 +12,7 @@ I'm a passionate **Node.js developer** with expertise in building scalable and h
 - **Tools & Other:** REST APIs, WebSockets, Cron Jobs, MongoDB Aggregations  
 
 ### 📫 Connect with Me  
-- 💼 [GitHub](https://dhruvisha-bhingradiya.github.io/profile)  
+- 💼 [My Website](https://dhruvisha-bhingradiya.github.io/profile)  
 - ✉️ Reach me via GitHub discussions or issues!  
 
 ---
